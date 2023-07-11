@@ -1,5 +1,5 @@
 # # Module-19-Challenge
-Bootcamp Module 19 Challenge - No SQL Social Media API
+Bootcamp Module 19 Challenge - PAW Text Editor
 
 The challenge is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, to feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
@@ -40,6 +40,12 @@ The challenge is to build a text editor that runs in the browser. The app will b
 **Repo Link**
 
 https://github.com/momentes/19-PAW-Text-Editor
+
+
+**Heroku Deployment**
+
+https://git.heroku.com/texteditor-paw.git
+
 
 # License
 
