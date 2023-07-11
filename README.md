@@ -35,6 +35,10 @@ The challenge is to build a text editor that runs in the browser. The app will b
 - WHEN I deploy to Heroku
 - THEN I should have proper build scripts for a webpack application
 
+
+# User Note
+- Assignment incomplete, for another time to tackle.
+
 # Project Links:
 
 **Repo Link**
@@ -52,6 +56,7 @@ https://git.heroku.com/texteditor-paw.git
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 <a href = "https://opensource.org/licenses/MIT">License Link</a>
 <a href = "https://gist.github.com/ckib16/8732561535ed766cd6b8">MIT Guide</a>
+
 
 Thank you
 End.        
